@@ -43,28 +43,35 @@ This repository supports several research objectives:
 ## Repository Structure
 
 The final structure of the repository may follow this model:
-
-```text
-.
-├── data/
-│   ├── alto/              # XML-ALTO files
-│   ├── tei/               # XML-TEI files
-│   ├── txt/               # Plain-text versions
-│   └── csv/               # Extracted and structured data
+Question-Politique/
+├── Data/
+│   ├── Alto/              # XML-ALTO files
+│   ├── CSV/               # Extracted and structured data
+│   ├── TEI/               # XML-TEI files
+│   └── TXT/               # Plain-text versions
 │
-├── scripts/
-│   ├── normalization/     # Scripts for semi-automatic normalisation
-│   ├── extraction/        # Scripts for extracting exempla and metadata
-│   └── analysis/          # Statistical analysis and visualisation scripts│
-
-├── figures/               # Generated graphs and visualisations
-├── README.md
-└── LICENSE
-Repository structure
-/
-├─ .gitattributes
-└─ README.md
-```
+├── Figures/
+│   ├── Statistiques_évènements_052026.png
+│   └── distancestemporelles_052026.png
+│
+├── Scripts/
+│   ├── Extractor.py
+│   │   └── Extracts <reg> tags from XML-TEI files and exports them as TXT files.
+│   │
+│   ├── distance_temporelle_date_stat.py
+│   │   └── Computes temporal distances between the date of each text and the date of the events cited.
+│   │
+│   ├── normalizator.py
+│   │   └── Semi-automatically normalizes a sixteenth-century corpus into a semi-diplomatic transcription.
+│   │
+│   ├── renomination.py
+│   │   └── Renames image files.
+│   │
+│   └── stat_periodes.py
+│       └── Computes the periodization of the texts and the distribution of events by historical period.
+│
+├── .gitattributes
+└── README.md
 
 ## License
 Unless otherwise indicated, all content in this repository is released under:
