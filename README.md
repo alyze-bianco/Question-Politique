@@ -65,22 +65,19 @@ Repository structure
 ├─ .gitattributes
 └─ README.md
 
-##
-License
+## License
 Unless otherwise indicated, all content in this repository is released under:
 
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 👉 https://creativecommons.org/licenses/by/4.0/
 
-##
-
-Citation
+## Citation
 If you wish to cite this repository as a whole, please use:
 
 Alyzé Bianco, Computational Analysis of Narrative Exempla in Protestant Monarchomach Writings , GitHub repository, 2025. CC BY 4.0.
 Available at: https://github.com/alyze-bianco/Question-Politique
 
 
-Acknowledgments
+## Acknowledgments
 This repository is maintained by Alyzé Bianco (FNS Scientific Collaborator, University of Geneva).
 It is part of ongoing research on *La Question Politique* de Jean de Coras
