@@ -28,49 +28,6 @@ The corpus is composed of seven monarchomach texts written between 1569 and 1581
 | *Discours des diverses puissances* | Anonymous / NR | 1578 | 147 pages |
 | *De la puissance légitime du prince* | Stephanus Junius Brutus | 1581 | 271 pages |
 
-## Methodology
-
-The workflow follows several stages:
-
-1. **Data preparation**
-   - Layout analysis of early modern printed sources.
-   - OCR / HTR processing.
-   - Manual correction of transcriptions.
-   - Export of textual data from XML-ALTO to XML-TEI.
-
-2. **Textual enrichment**
-   - Semi-automatic normalisation of sixteenth-century French.
-   - Use of `<orig>` and `<reg>` TEI tags to preserve both original and regularised forms.
-   - Progressive enrichment of a lexical resource adapted to the corpus.
-
-3. **Data extraction**
-   - Extraction of relevant textual and rhetorical information using Python scripts.
-   - Conversion of structured data into `.txt` and `.csv` formats.
-   - Identification and verification of narrative *exempla*.
-
-4. **Dating and classification**
-   - Historical dating of events, figures, and references.
-   - Use of historical reference data, including Wikidata where applicable.
-   - Approximate dating of long periods using median dates.
-   - Specific treatment of biblical references through a conventional chronological framework.
-
-5. **Statistical analysis and visualisation**
-   - Computation of temporal distance between the date of each text and the events mobilised as *exempla*.
-   - Classification of references by historical period.
-   - Visualisation using Python and Matplotlib.
-
-## Historical Categories
-
-The references are classified into the following analytical categories:
-
-- Biblical Antiquity
-- Classical Antiquity
-- Early Middle Ages
-- Late Middle Ages
-- Contemporary period of the author
-- Mythology
-
-These categories are used as operational tools for comparison and visualisation. They are not intended to reproduce sixteenth-century historical consciousness exactly.
 
 ## Main Analytical Goals
 
@@ -82,19 +39,6 @@ This repository supports several research objectives:
 - Testing whether the *Question politique* presents a distinctive argumentative profile.
 - Building a reusable workflow for larger corpora of early modern political texts.
 
-## Preliminary Results
-
-The first results show two major temporal regimes in the corpus:
-
-1. A use of the recent past, especially in texts concerned with immediate political experience.
-2. A use of the distant past, especially Classical Antiquity and, in some cases, Biblical Antiquity.
-
-The *Question politique* appears to occupy an intermediate position. It combines contemporary political references with learned historical and biblical examples. This hybrid profile may contribute to future attribution studies, provided that the corpus is further stabilised and normalised.
-
-The analysis also suggests that monarchomach argumentation combines two modes of proof:
-
-- a cumulative logic, based on the accumulation of historical precedents;
-- an exemplary logic, in which specific cases are elevated as political models.
 
 ## Repository Structure
 
@@ -118,3 +62,30 @@ The final structure of the repository may follow this model:
 ├── docs/                  # Documentation
 ├── README.md
 └── LICENSE
+Repository structure
+/
+├─ docs/
+│  ├─ BnF_Arsenal_ms-5219/
+│  └─ index.html
+├─ .gitattributes
+└─ README.md
+
+##
+License
+Unless otherwise indicated, all content in this repository is released under:
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+👉 https://creativecommons.org/licenses/by/4.0/
+
+##
+
+Citation
+If you wish to cite this repository as a whole, please use:
+
+Alyzé Bianco, Computational Analysis of Narrative Exempla in Protestant Monarchomach Writings , GitHub repository, 2025. CC BY 4.0.
+Available at: https://github.com/alyze-bianco/Question-Politique
+
+
+Acknowledgments
+This repository is maintained by Alyzé Bianco (FNS Scientific Collaborator, University of Geneva).
+It is part of ongoing research on La Question Politique de Jean de Coras
