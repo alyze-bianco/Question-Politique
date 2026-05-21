@@ -1,4 +1,4 @@
-# Computational Analysis of Narrative Exempla in Protestant Monarchomach Writings
+# Computational Analysis of Narrative *Exempla* in Protestant Monarchomach Writings
 
 This repository contains the data-processing workflow, scripts, and analytical materials developed for a computational study of narrative *exempla* in sixteenth-century Protestant monarchomach writings.
 
@@ -6,7 +6,7 @@ The project investigates how political authors of the French Wars of Religion mo
 
 ## Research Context
 
-The study is situated at the intersection of early modern intellectual history, rhetoric, textual scholarship, and digital humanities.
+The study is situated at the intersection of early modern intellectual history, rhetoric and digital humanities.
 
 The main research question is:
 
@@ -55,18 +55,13 @@ The final structure of the repository may follow this model:
 ├── scripts/
 │   ├── normalization/     # Scripts for semi-automatic normalisation
 │   ├── extraction/        # Scripts for extracting exempla and metadata
-│   └── analysis/          # Statistical analysis and visualisation scripts
-│
-├── notebooks/             # Exploratory analysis notebooks
+│   └── analysis/          # Statistical analysis and visualisation scripts│
+
 ├── figures/               # Generated graphs and visualisations
-├── docs/                  # Documentation
 ├── README.md
 └── LICENSE
 Repository structure
 /
-├─ docs/
-│  ├─ BnF_Arsenal_ms-5219/
-│  └─ index.html
 ├─ .gitattributes
 └─ README.md
 
@@ -88,4 +83,4 @@ Available at: https://github.com/alyze-bianco/Question-Politique
 
 Acknowledgments
 This repository is maintained by Alyzé Bianco (FNS Scientific Collaborator, University of Geneva).
-It is part of ongoing research on La Question Politique de Jean de Coras
+It is part of ongoing research on *La Question Politique* de Jean de Coras
