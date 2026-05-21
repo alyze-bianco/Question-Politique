@@ -65,6 +65,8 @@ Repository structure
 ├─ .gitattributes
 └─ README.md
 
+'''
+
 ## License
 Unless otherwise indicated, all content in this repository is released under:
 
