@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>p_00038.png</fileName>
+      <fileIdentifier>mets//page_00002.zip/page_00039.png</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone" /><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone" /><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone" /><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone" /><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone" /><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" /><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone" /><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone" /><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone" /><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone" /><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone" /><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone" /><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone" /><OtherTag ID="BT2592" LABEL="MainZone-Head" DESCRIPTION="block type MainZone-Head" /><OtherTag ID="BT2593" LABEL="MainZone-P" DESCRIPTION="block type MainZone-P" /><OtherTag ID="BT2594" LABEL="MainZone-Continued" DESCRIPTION="block type MainZone-Continued" /><OtherTag ID="BT2595" LABEL="MainZone-Sp" DESCRIPTION="block type MainZone-Sp" /><OtherTag ID="BT2596" LABEL="MainZone-Lg" DESCRIPTION="block type MainZone-Lg" /><OtherTag ID="BT2713" LABEL="MainZone-ListItem" DESCRIPTION="block type MainZone-ListItem" />
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine" /><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine" /><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine" /><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine" /><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine" /><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine" /><OtherTag ID="LT765" LABEL="default" DESCRIPTION="line type default" />
+  </Tags>
+  <Layout>
+    <Page WIDTH="1445" HEIGHT="2423" PHYSICAL_IMG_NR="38" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="1445" HEIGHT="2423">
+        <TextBlock HPOS="889.0" VPOS="2305.0" WIDTH="318.0" HEIGHT="75.0" ID="block_0" TAGREFS="BT9">
+          <Shape><Polygon POINTS="1207 2305 1207 2380 889 2380 889 2305" /></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

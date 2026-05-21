@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>p_00025.png</fileName>
+      <fileIdentifier>mets//page_00002.zip/page_00026.png</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone" /><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone" /><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone" /><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone" /><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone" /><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" /><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone" /><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone" /><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone" /><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone" /><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone" /><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone" /><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone" /><OtherTag ID="BT2592" LABEL="MainZone-Head" DESCRIPTION="block type MainZone-Head" /><OtherTag ID="BT2593" LABEL="MainZone-P" DESCRIPTION="block type MainZone-P" /><OtherTag ID="BT2594" LABEL="MainZone-Continued" DESCRIPTION="block type MainZone-Continued" /><OtherTag ID="BT2595" LABEL="MainZone-Sp" DESCRIPTION="block type MainZone-Sp" /><OtherTag ID="BT2596" LABEL="MainZone-Lg" DESCRIPTION="block type MainZone-Lg" /><OtherTag ID="BT2713" LABEL="MainZone-ListItem" DESCRIPTION="block type MainZone-ListItem" />
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine" /><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine" /><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine" /><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine" /><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine" /><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine" /><OtherTag ID="LT765" LABEL="default" DESCRIPTION="line type default" />
+  </Tags>
+  <Layout>
+    <Page WIDTH="1415" HEIGHT="2399" PHYSICAL_IMG_NR="25" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="1415" HEIGHT="2399">
+        <TextBlock HPOS="126.0" VPOS="152.0" WIDTH="1041.0" HEIGHT="1893.0" ID="eSc_textblock_5c5f9137" TAGREFS="BT2594">
+          <Shape><Polygon POINTS="126 162 128 2045 1159 2033 1167 152" /></Shape>
+          <TextLine ID="eSc_line_9896b5c4" TAGREFS="LT8" BASELINE="142 233 627 230 1153 226" HPOS="142" VPOS="226" WIDTH="1011" HEIGHT="7">
+            <String CONTENT="tuer tous à credit: Monſeigneur, le Conſeil vaut" HPOS="142" VPOS="226" WIDTH="1011" HEIGHT="7" />
+          </TextLine>
+          <TextLine ID="eSc_line_c57b2fab" TAGREFS="LT8" BASELINE="140 299 1161 291" HPOS="140" VPOS="291" WIDTH="1021" HEIGHT="8">
+            <String CONTENT="mieux, que Gamaliel donna iadis, lors qu'on" HPOS="140" VPOS="291" WIDTH="1021" HEIGHT="8" />
+          </TextLine>
+          <TextLine ID="eSc_line_a6dbc4c7" TAGREFS="LT8" BASELINE="150 364 1153 362" HPOS="150" VPOS="362" WIDTH="1003" HEIGHT="2">
+            <String CONTENT="pouſuiuoit les Apoſtres: c'eſt de laiſſer ces gẽs en" HPOS="150" VPOS="362" WIDTH="1003" HEIGHT="2" />
+          </TextLine>
+          <TextLine ID="eSc_line_1542e064" TAGREFS="LT8" BASELINE="148 423 1151 436" HPOS="148" VPOS="423" WIDTH="1003" HEIGHT="13">
+            <String CONTENT="paix: ſi leur cõseil ou doctrine eſt des hõmes," HPOS="148" VPOS="423" WIDTH="1003" HEIGHT="13" />
+          </TextLine>
+          <TextLine ID="eSc_line_f3e05bc4" TAGREFS="LT8" BASELINE="136 498 1161 498" HPOS="136" VPOS="498" WIDTH="1025" HEIGHT="0">
+            <String CONTENT="ſoyez certain qu'il ſera des faict tout à plat : que" HPOS="136" VPOS="498" WIDTH="1025" HEIGHT="0" />
+          </TextLine>
+          <TextLine ID="eSc_line_5e42f23c" TAGREFS="LT8" BASELINE="140 561 1155 565" HPOS="140" VPOS="561" WIDTH="1015" HEIGHT="4">
+            <String CONTENT="ſi ceſte oeuure eſt de Dieu, iamais on ne la pourra" HPOS="140" VPOS="561" WIDTH="1015" HEIGHT="4" />
+          </TextLine>
+          <TextLine ID="eSc_line_22877497" TAGREFS="LT8" BASELINE="138 639 1161 636" HPOS="138" VPOS="636" WIDTH="1023" HEIGHT="3">
+            <String CONTENT="deffaire. Les estats aſſemblez à Orleans, quel¬" HPOS="138" VPOS="636" WIDTH="1023" HEIGHT="3" />
+          </TextLine>
+          <TextLine ID="eSc_line_e454d297" TAGREFS="LT8" BASELINE="148 701 1159 701" HPOS="148" VPOS="701" WIDTH="1011" HEIGHT="0">
+            <String CONTENT="ques partiaux qu'ils fuſſent, &amp; peu libres, furẽnt" HPOS="148" VPOS="701" WIDTH="1011" HEIGHT="0" />
+          </TextLine>
+          <TextLine ID="eSc_line_8ad5415c" TAGREFS="LT8" BASELINE="136 766 1163 768" HPOS="136" VPOS="766" WIDTH="1027" HEIGHT="2">
+            <String CONTENT="cõme vous ſcavez, de ceſt avis: les grãs perſonna" HPOS="136" VPOS="766" WIDTH="1027" HEIGHT="2" />
+          </TextLine>
+          <TextLine ID="eSc_line_7352c143" TAGREFS="LT8" BASELINE="142 840 1153 837" HPOS="142" VPOS="837" WIDTH="1011" HEIGHT="3">
+            <String CONTENT="ges de la Frãce, apres avoir ouy les miniſtres des" HPOS="142" VPOS="837" WIDTH="1011" HEIGHT="3" />
+          </TextLine>
+          <TextLine ID="eSc_line_2cbbed4a" TAGREFS="LT8" BASELINE="150 909 1155 907" HPOS="150" VPOS="907" WIDTH="1005" HEIGHT="2">
+            <String CONTENT="Huguenots ) Poißy, conſeillerẽt la meſme choſe." HPOS="150" VPOS="907" WIDTH="1005" HEIGHT="2" />
+          </TextLine>
+          <TextLine ID="eSc_line_7eef427c" TAGREFS="LT8" BASELINE="138 963 1161 980" HPOS="138" VPOS="963" WIDTH="1023" HEIGHT="17">
+            <String CONTENT="Ainſi, ſi vous tenez cetrain, il ne faut ià que" HPOS="138" VPOS="963" WIDTH="1023" HEIGHT="17" />
+          </TextLine>
+          <TextLine ID="eSc_line_78acf55a" TAGREFS="LT8" BASELINE="144 1040 1153 1045" HPOS="144" VPOS="1040" WIDTH="1009" HEIGHT="5">
+            <String CONTENT="vous doutiez, que les Huguenots ne deſirent vo" HPOS="144" VPOS="1040" WIDTH="1009" HEIGHT="5" />
+          </TextLine>
+          <TextLine ID="eSc_line_16899487" TAGREFS="LT8" BASELINE="142 1110 1153 1120" HPOS="142" VPOS="1110" WIDTH="1011" HEIGHT="10">
+            <String CONTENT="ſtre avancemẽt, &amp; grãdeur : &amp; qu'ils n'oublyẽt" HPOS="142" VPOS="1110" WIDTH="1011" HEIGHT="10" />
+          </TextLine>
+          <TextLine ID="eSc_line_ddf8b396" TAGREFS="LT8" BASELINE="148 1183 1155 1183" HPOS="148" VPOS="1183" WIDTH="1007" HEIGHT="0">
+            <String CONTENT="ayſeemẽnt tout ce qu'ils ont receu de perte par vos" HPOS="148" VPOS="1183" WIDTH="1007" HEIGHT="0" />
+          </TextLine>
+          <TextLine ID="eSc_line_7e3bf3d5" TAGREFS="LT8" BASELINE="144 1250 1155 1254" HPOS="144" VPOS="1250" WIDTH="1011" HEIGHT="4">
+            <String CONTENT="deuanciers, &amp; parens : eſtant choſe toute aſſeu¬" HPOS="144" VPOS="1250" WIDTH="1011" HEIGHT="4" />
+          </TextLine>
+          <TextLine ID="eSc_line_73e7aa17" TAGREFS="LT8" BASELINE="142 1315 1153 1323" HPOS="142" VPOS="1315" WIDTH="1011" HEIGHT="8">
+            <String CONTENT="ree, que les iniures nouuelles qu'on leur va iour" HPOS="142" VPOS="1315" WIDTH="1011" HEIGHT="8" />
+          </TextLine>
+          <TextLine ID="eSc_line_75df1766" TAGREFS="LT8" BASELINE="148 1386 1151 1394" HPOS="148" VPOS="1386" WIDTH="1003" HEIGHT="8">
+            <String CONTENT="nellemẽt multipliãt, leur font perdre la memoi¬" HPOS="148" VPOS="1386" WIDTH="1003" HEIGHT="8" />
+          </TextLine>
+          <TextLine ID="eSc_line_f7ecefb2" TAGREFS="LT8" BASELINE="142 1451 1151 1461" HPOS="142" VPOS="1451" WIDTH="1009" HEIGHT="10">
+            <String CONTENT="re des vieilles : Et que piecà on ne parle plus que" HPOS="142" VPOS="1451" WIDTH="1009" HEIGHT="10" />
+          </TextLine>
+          <TextLine ID="eSc_line_824f7a6c" TAGREFS="LT8" BASELINE="142 1528 1151 1534" HPOS="142" VPOS="1528" WIDTH="1009" HEIGHT="6">
+            <String CONTENT="des tours de la Royne mere, de Birague, du Perõ," HPOS="142" VPOS="1528" WIDTH="1009" HEIGHT="6" />
+          </TextLine>
+          <TextLine ID="eSc_line_5cd1dbab" TAGREFS="LT8" BASELINE="144 1593 1153 1597" HPOS="144" VPOS="1593" WIDTH="1009" HEIGHT="4">
+            <String CONTENT="&amp; tels eſtaffiers qui maniẽt tout ce poure Royau" HPOS="144" VPOS="1593" WIDTH="1009" HEIGHT="4" />
+          </TextLine>
+          <TextLine ID="eSc_line_0e5fbd70" TAGREFS="LT8" BASELINE="144 1656 1155 1658" HPOS="144" VPOS="1656" WIDTH="1011" HEIGHT="2">
+            <String CONTENT="me en rond, de pié coy, &amp; à Paſſades, &amp; tout ain" HPOS="144" VPOS="1656" WIDTH="1011" HEIGHT="2" />
+          </TextLine>
+          <TextLine ID="eSc_line_a7fb18f1" TAGREFS="LT8" BASELINE="138 1725 1149 1737" HPOS="138" VPOS="1725" WIDTH="1011" HEIGHT="12">
+            <String CONTENT="ſi cõme il leur plaiſt. Außi ne faut il pas douter" HPOS="138" VPOS="1725" WIDTH="1011" HEIGHT="12" />
+          </TextLine>
+          <TextLine ID="eSc_line_991d169a" TAGREFS="LT8" BASELINE="142 1802 1151 1800" HPOS="142" VPOS="1800" WIDTH="1009" HEIGHT="2">
+            <String CONTENT="que ceſte voye debõnaire ne plaiſe bien aux Ca¬" HPOS="142" VPOS="1800" WIDTH="1009" HEIGHT="2" />
+          </TextLine>
+          <TextLine ID="eSc_line_582bf248" TAGREFS="LT8" BASELINE="136 1857 1147 1863" HPOS="136" VPOS="1857" WIDTH="1011" HEIGHT="6">
+            <String CONTENT="tholiques, deſquels les vns, partrop laſſez, ne de" HPOS="136" VPOS="1857" WIDTH="1011" HEIGHT="6" />
+          </TextLine>
+          <TextLine ID="eSc_line_9b54bfec" TAGREFS="LT8" BASELINE="144 1924 1149 1936" HPOS="144" VPOS="1924" WIDTH="1005" HEIGHT="12">
+            <String CONTENT="mandent que le repos:&amp; les autres, ont touſiours" HPOS="144" VPOS="1924" WIDTH="1005" HEIGHT="12" />
+          </TextLine>
+          <TextLine ID="eSc_line_5e56f8f9" TAGREFS="LT8" BASELINE="138 2003 722 2003" HPOS="138" VPOS="2003" WIDTH="584" HEIGHT="0">
+            <String CONTENT="eu en horreur toute cruauté." HPOS="138" VPOS="2003" WIDTH="584" HEIGHT="0" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="513.0" VPOS="2273.0" WIDTH="337.0" HEIGHT="75.0" ID="eSc_textblock_7fedfd36" TAGREFS="BT9">
+          <Shape><Polygon POINTS="513 2273 513 2348 850 2348 850 2273" /></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

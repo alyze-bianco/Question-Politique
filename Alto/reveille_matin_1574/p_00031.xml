@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>p_00031.png</fileName>
+      <fileIdentifier>mets//page_00002.zip/page_00032.png</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone" /><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone" /><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone" /><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone" /><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone" /><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" /><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone" /><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone" /><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone" /><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone" /><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone" /><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone" /><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone" /><OtherTag ID="BT2592" LABEL="MainZone-Head" DESCRIPTION="block type MainZone-Head" /><OtherTag ID="BT2593" LABEL="MainZone-P" DESCRIPTION="block type MainZone-P" /><OtherTag ID="BT2594" LABEL="MainZone-Continued" DESCRIPTION="block type MainZone-Continued" /><OtherTag ID="BT2595" LABEL="MainZone-Sp" DESCRIPTION="block type MainZone-Sp" /><OtherTag ID="BT2596" LABEL="MainZone-Lg" DESCRIPTION="block type MainZone-Lg" /><OtherTag ID="BT2713" LABEL="MainZone-ListItem" DESCRIPTION="block type MainZone-ListItem" />
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine" /><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine" /><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine" /><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine" /><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine" /><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine" /><OtherTag ID="LT765" LABEL="default" DESCRIPTION="line type default" />
+  </Tags>
+  <Layout>
+    <Page WIDTH="1424" HEIGHT="2403" PHYSICAL_IMG_NR="31" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="1424" HEIGHT="2403">
+        <TextBlock HPOS="346" VPOS="63" WIDTH="502" HEIGHT="69" ID="eSc_textblock_a9ccca83" TAGREFS="BT18">
+          <Shape><Polygon POINTS="346 63 346 132 848 132 848 63" /></Shape>
+          <TextLine ID="eSc_line_6b9f0c54" TAGREFS="LT10" BASELINE="356 117 609 118 836 119" HPOS="356" VPOS="117" WIDTH="480" HEIGHT="2">
+            <String CONTENT="DIALOGISME" HPOS="356" VPOS="117" WIDTH="480" HEIGHT="2" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="211.0" VPOS="142.0" WIDTH="771.0" HEIGHT="244.0" ID="eSc_textblock_055f1f2c" TAGREFS="BT2594">
+          <Shape><Polygon POINTS="211 142 211 386 982 385 982 142" /></Shape>
+          <TextLine ID="eSc_line_bac015d9" TAGREFS="LT8" BASELINE="216 188 920 193" HPOS="216" VPOS="188" WIDTH="704" HEIGHT="5">
+            <String CONTENT="Introduiſans au lieu du Paganiſme" HPOS="216" VPOS="188" WIDTH="704" HEIGHT="5" />
+          </TextLine>
+          <TextLine ID="eSc_line_6f1cff97" TAGREFS="LT8" BASELINE="224 239 933 252" HPOS="224" VPOS="239" WIDTH="709" HEIGHT="13">
+            <String CONTENT="Vne Sodome, vn horrible Atheiſme" HPOS="224" VPOS="239" WIDTH="709" HEIGHT="13" />
+          </TextLine>
+          <TextLine ID="eSc_line_12ba9eaa" TAGREFS="LT8" BASELINE="229 306 958 311" HPOS="229" VPOS="306" WIDTH="729" HEIGHT="5">
+            <String CONTENT="Dedans la Cour, où les Lis ſont fenez," HPOS="229" VPOS="306" WIDTH="729" HEIGHT="5" />
+          </TextLine>
+          <TextLine ID="eSc_line_52dfd9ba" TAGREFS="LT8" BASELINE="220 359 948 375" HPOS="220" VPOS="359" WIDTH="728" HEIGHT="16">
+            <String CONTENT="Et les Crapaux en France retournez." HPOS="220" VPOS="359" WIDTH="728" HEIGHT="16" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="108.0" VPOS="383.0" WIDTH="974.0" HEIGHT="128.0" ID="eSc_textblock_99b99014" TAGREFS="BT2595">
+          <Shape><Polygon POINTS="108 383 108 511 1082 511 1082 383" /></Shape>
+          <TextLine ID="eSc_line_f7ee4241" TAGREFS="LT8" BASELINE="128 429 1073 434" HPOS="128" VPOS="429" WIDTH="945" HEIGHT="5">
+            <String CONTENT="Pol. Mais dequoy ſers ce mors &amp; ce cheveſtre" HPOS="128" VPOS="429" WIDTH="945" HEIGHT="5" />
+          </TextLine>
+          <TextLine ID="eSc_line_4140c68f" TAGREFS="LT8" BASELINE="224 483 943 486" HPOS="224" VPOS="483" WIDTH="719" HEIGHT="3">
+            <String CONTENT="Et ce ſerment qui pend à ta ſeneſtre" HPOS="224" VPOS="483" WIDTH="719" HEIGHT="3" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="109.0" VPOS="513.0" WIDTH="978.0" HEIGHT="346.0" ID="eSc_textblock_ce3a0230" TAGREFS="BT2595">
+          <Shape><Polygon POINTS="116 513 109 852 1087 859 1087 513" /></Shape>
+          <TextLine ID="eSc_line_df1bc944" TAGREFS="LT8" BASELINE="123 541 992 552" HPOS="123" VPOS="541" WIDTH="869" HEIGHT="11">
+            <String CONTENT="Pa. C'eſt mon amy, dont ie bride les veaux," HPOS="123" VPOS="541" WIDTH="869" HEIGHT="11" />
+          </TextLine>
+          <TextLine ID="eSc_line_f808245f" TAGREFS="LT8" BASELINE="228 603 968 614" HPOS="228" VPOS="603" WIDTH="740" HEIGHT="11">
+            <String CONTENT="Qui s'amuſans à mes Edits nouveaux" HPOS="228" VPOS="603" WIDTH="740" HEIGHT="11" />
+          </TextLine>
+          <TextLine ID="eSc_line_1ffc2453" TAGREFS="LT8" BASELINE="215 670 973 675" HPOS="215" VPOS="670" WIDTH="758" HEIGHT="5">
+            <String CONTENT="Croyent a tout ce que Charle leur iure:" HPOS="215" VPOS="670" WIDTH="758" HEIGHT="5" />
+          </TextLine>
+          <TextLine ID="eSc_line_3e875a69" TAGREFS="LT8" BASELINE="218 728 1007 731" HPOS="218" VPOS="728" WIDTH="789" HEIGHT="3">
+            <String CONTENT="Le Serment, c'eſt ma verge de Mercure" HPOS="218" VPOS="728" WIDTH="789" HEIGHT="3" />
+          </TextLine>
+          <TextLine ID="eSc_line_86bbed36" TAGREFS="LT8" BASELINE="239 778 1023 787" HPOS="239" VPOS="778" WIDTH="784" HEIGHT="9">
+            <String CONTENT="Dequoy i'endors &amp; charme l'Huguenot," HPOS="239" VPOS="778" WIDTH="784" HEIGHT="9" />
+          </TextLine>
+          <TextLine ID="eSc_line_18320abb" TAGREFS="LT8" BASELINE="228 829 948 842" HPOS="228" VPOS="829" WIDTH="720" HEIGHT="13">
+            <String CONTENT="Et du ſommeil ie l'envoye à la Mort." HPOS="228" VPOS="829" WIDTH="720" HEIGHT="13" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="121.0" VPOS="857.0" WIDTH="1035.0" HEIGHT="353.0" ID="eSc_textblock_a84ab399" TAGREFS="BT2595">
+          <Shape><Polygon POINTS="121 857 121 1210 1156 1210 1156 857" /></Shape>
+          <TextLine ID="eSc_line_865256ad" TAGREFS="LT8" BASELINE="129 897 1142 906" HPOS="129" VPOS="897" WIDTH="1013" HEIGHT="9">
+            <String CONTENT="Pol. Et ſous tes piez ? Pa. les deux piliers de France" HPOS="129" VPOS="897" WIDTH="1013" HEIGHT="9" />
+          </TextLine>
+          <TextLine ID="eSc_line_a5d3db34" TAGREFS="LT8" BASELINE="238 959 789 964" HPOS="238" VPOS="959" WIDTH="551" HEIGHT="5">
+            <String CONTENT="(La Pieté &amp; l'egale balance" HPOS="238" VPOS="959" WIDTH="551" HEIGHT="5" />
+          </TextLine>
+          <TextLine ID="eSc_line_74f2c060" TAGREFS="LT8" BASELINE="241 1018 935 1023" HPOS="241" VPOS="1018" WIDTH="694" HEIGHT="5">
+            <String CONTENT="De la Iustice, honteuſe de nos Roys," HPOS="241" VPOS="1018" WIDTH="694" HEIGHT="5" />
+          </TextLine>
+          <TextLine ID="eSc_line_38c6b391" TAGREFS="LT8" BASELINE="241 1079 1074 1085" HPOS="241" VPOS="1079" WIDTH="833" HEIGHT="6">
+            <String CONTENT="Qui font paſſer leurs plaiſirs pour les loix)" HPOS="241" VPOS="1079" WIDTH="833" HEIGHT="6" />
+          </TextLine>
+          <TextLine ID="eSc_line_0a0f78a6" TAGREFS="LT8" BASELINE="231 1131 976 1138" HPOS="231" VPOS="1131" WIDTH="745" HEIGHT="7">
+            <String CONTENT="Iadis debout, &amp; maintenant par terre" HPOS="231" VPOS="1131" WIDTH="745" HEIGHT="7" />
+          </TextLine>
+          <TextLine ID="eSc_line_9eb373d9" TAGREFS="LT8" BASELINE="244 1182 1027 1197" HPOS="244" VPOS="1182" WIDTH="783" HEIGHT="15">
+            <String CONTENT="Sous vne Paix plus barbare que Guerre." HPOS="244" VPOS="1182" WIDTH="783" HEIGHT="15" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="113.0" VPOS="1213.0" WIDTH="1022.0" HEIGHT="127.0" ID="eSc_textblock_4755057a" TAGREFS="BT2595">
+          <Shape><Polygon POINTS="1135 1340 1135 1213 113 1213 113 1340" /></Shape>
+          <TextLine ID="eSc_line_5f04cbf6" TAGREFS="LT8" BASELINE="139 1249 1045 1254" HPOS="139" VPOS="1249" WIDTH="906" HEIGHT="5">
+            <String CONTENT="Pol. Mais pourquoy donc mauuaiſe te fais-tu" HPOS="139" VPOS="1249" WIDTH="906" HEIGHT="5" />
+          </TextLine>
+          <TextLine ID="eSc_line_564fac22" TAGREFS="LT8" BASELINE="241 1318 1007 1320" HPOS="241" VPOS="1318" WIDTH="766" HEIGHT="2">
+            <String CONTENT="Nommer la Paix, compagne de Vertu ?" HPOS="241" VPOS="1318" WIDTH="766" HEIGHT="2" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="111.0" VPOS="1340.0" WIDTH="1026.0" HEIGHT="269.0" ID="eSc_textblock_35c36b11" TAGREFS="BT2595">
+          <Shape><Polygon POINTS="1137 1609 1137 1340 111 1340 111 1609" /></Shape>
+          <TextLine ID="eSc_line_55014a3d" TAGREFS="LT8" BASELINE="142 1374 1004 1374" HPOS="142" VPOS="1374" WIDTH="862" HEIGHT="0">
+            <String CONTENT="Pa. Suis-ie pas Paix, qui en paix eternelle," HPOS="142" VPOS="1374" WIDTH="862" HEIGHT="0" />
+          </TextLine>
+          <TextLine ID="eSc_line_f248aaef" TAGREFS="LT8" BASELINE="238 1430 973 1431" HPOS="238" VPOS="1430" WIDTH="735" HEIGHT="1">
+            <String CONTENT="En couche tel, qui iamais ne s'eſveille:" HPOS="238" VPOS="1430" WIDTH="735" HEIGHT="1" />
+          </TextLine>
+          <TextLine ID="eSc_line_91c26ed9" TAGREFS="LT8" BASELINE="231 1487 1102 1497" HPOS="231" VPOS="1487" WIDTH="871" HEIGHT="10">
+            <String CONTENT="Plus ne font guerre, &amp; plus n'ont d'ennemis," HPOS="231" VPOS="1487" WIDTH="871" HEIGHT="10" />
+          </TextLine>
+          <TextLine ID="eSc_line_b4424155" TAGREFS="LT8" BASELINE="244 1548 973 1558" HPOS="244" VPOS="1548" WIDTH="729" HEIGHT="10">
+            <String CONTENT="Ceux qui ſous moy repoſent endormis," HPOS="244" VPOS="1548" WIDTH="729" HEIGHT="10" />
+          </TextLine>
+          <TextLine ID="eSc_line_c028dbbe" TAGREFS="LT8" BASELINE="251 1594 927 1607" HPOS="251" VPOS="1594" WIDTH="676" HEIGHT="13">
+            <String CONTENT="Et ſur la Foy que Charles a iuree." HPOS="251" VPOS="1594" WIDTH="676" HEIGHT="13" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="123.0" VPOS="1618.0" WIDTH="992.0" HEIGHT="115.0" ID="eSc_textblock_7ad40aae" TAGREFS="BT2595">
+          <Shape><Polygon POINTS="1115 1733 1115 1618 124 1618 123 1733" /></Shape>
+          <TextLine ID="eSc_line_eeb203b2" TAGREFS="LT8" BASELINE="146 1659 948 1669" HPOS="146" VPOS="1659" WIDTH="802" HEIGHT="10">
+            <String CONTENT="Pol. Pourquoy tiens tu ceſte lame ferree," HPOS="146" VPOS="1659" WIDTH="802" HEIGHT="10" />
+          </TextLine>
+          <TextLine ID="eSc_line_2a839ab5" TAGREFS="LT8" BASELINE="259 1719 1045 1727" HPOS="259" VPOS="1719" WIDTH="786" HEIGHT="8">
+            <String CONTENT="Qui ſerroit mieux à vn Mars inhumain ?" HPOS="259" VPOS="1719" WIDTH="786" HEIGHT="8" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="123.0" VPOS="1741.0" WIDTH="997.0" HEIGHT="230.0" ID="eSc_textblock_da4bdfdd" TAGREFS="BT2595">
+          <Shape><Polygon POINTS="1120 1971 1120 1741 123 1741 123 1971" /></Shape>
+          <TextLine ID="eSc_line_8fd1d5eb" TAGREFS="LT8" BASELINE="151 1778 1082 1787" HPOS="151" VPOS="1778" WIDTH="931" HEIGHT="9">
+            <String CONTENT="Pa. Pour faire encore vn beau coup de ma main:" HPOS="151" VPOS="1778" WIDTH="931" HEIGHT="9" />
+          </TextLine>
+          <TextLine ID="eSc_line_2459734f" TAGREFS="LT8" BASELINE="244 1843 920 1850" HPOS="244" VPOS="1843" WIDTH="676" HEIGHT="7">
+            <String CONTENT="Sous l'amitié de Noces confermee," HPOS="244" VPOS="1843" WIDTH="676" HEIGHT="7" />
+          </TextLine>
+          <TextLine ID="eSc_line_c2b8a7e1" TAGREFS="LT8" BASELINE="249 1894 963 1909" HPOS="249" VPOS="1894" WIDTH="714" HEIGHT="15">
+            <String CONTENT="Surprendre au lict la force de ſarmee," HPOS="249" VPOS="1894" WIDTH="714" HEIGHT="15" />
+          </TextLine>
+          <TextLine ID="eSc_line_4130e435" TAGREFS="LT8" BASELINE="264 1955 1017 1963" HPOS="264" VPOS="1955" WIDTH="753" HEIGHT="8">
+            <String CONTENT="Meſlant le ſang des Nobles maſſacrez" HPOS="264" VPOS="1955" WIDTH="753" HEIGHT="8" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="973.0" VPOS="1989.0" WIDTH="52.0" HEIGHT="49.0" ID="eSc_textblock_59f48dfd" TAGREFS="BT17">
+          <Shape><Polygon POINTS="1025 2038 1025 1989 973 1989 973 2038" /></Shape>
+          <TextLine ID="eSc_line_8d234dc9" TAGREFS="LT8" BASELINE="987 2024 1017 2027" HPOS="987" VPOS="2024" WIDTH="30" HEIGHT="3">
+            <String CONTENT="c." HPOS="987" VPOS="2024" WIDTH="30" HEIGHT="3" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="530.0" VPOS="2286.0" WIDTH="329.0" HEIGHT="81.0" ID="eSc_textblock_5fabf06f" TAGREFS="BT9">
+          <Shape><Polygon POINTS="530 2286 530 2367 856 2367 859 2286" /></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

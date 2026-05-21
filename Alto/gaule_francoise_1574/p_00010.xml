@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>p_00010.jpg</fileName>
+      <fileIdentifier>mets//0_4c28e_default.zip/10_18a1f_default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone" /><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone" /><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone" /><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone" /><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone" /><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" /><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone" /><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone" /><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone" /><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone" /><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone" /><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone" /><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone" /><OtherTag ID="BT2597" LABEL="MainZone-Head" DESCRIPTION="block type MainZone-Head" /><OtherTag ID="BT2598" LABEL="MainZone-P" DESCRIPTION="block type MainZone-P" /><OtherTag ID="BT2599" LABEL="MainZone-Continued" DESCRIPTION="block type MainZone-Continued" /><OtherTag ID="BT2600" LABEL="MainZone-Lg" DESCRIPTION="block type MainZone-Lg" /><OtherTag ID="BT2662" LABEL="MarginTextZone-ManuscriptAddendum" DESCRIPTION="block type MarginTextZone-ManuscriptAddendum" /><OtherTag ID="BT2663" LABEL="MainZone-Signature" DESCRIPTION="block type MainZone-Signature" /><OtherTag ID="BT2664" LABEL="TitlePageZone-Index" DESCRIPTION="block type TitlePageZone-Index" />
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine" /><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine" /><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine" /><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine" /><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine" /><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine" /><OtherTag ID="LT766" LABEL="default" DESCRIPTION="line type default" />
+  </Tags>
+  <Layout>
+    <Page WIDTH="1023" HEIGHT="1853" PHYSICAL_IMG_NR="10" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="1023" HEIGHT="1853">
+        <TextBlock HPOS="18" VPOS="74" WIDTH="783" HEIGHT="1475" ID="block_0" TAGREFS="BT22">
+          <Shape><Polygon POINTS="801 74 789 1548 18 1549 18 74" /></Shape>
+          <TextLine ID="eSc_line_7aa17986" TAGREFS="LT10" BASELINE="23 193 783 200" HPOS="20.0" VPOS="97.0" WIDTH="761.0" HEIGHT="131.0">
+            <Shape><Polygon POINTS="20 219 97 220 169 203 224 222 315 220 338 206 438 206 475 219 523 208 604 208 630 228 780 228 781 125 743 109 737 109 709 125 662 125 632 105 590 115 576 101 570 101 537 115 465 106 460 106 448 115 431 103 424 103 384 117 370 103 350 108 326 98 253 101 217 120 163 98 157 98 126 120 60 120 24 97 20 219" /></Shape>
+            <String CONTENT="LA GAVLE" HPOS="20.0" VPOS="97.0" WIDTH="761.0" HEIGHT="131.0" WC="0.9992997199296951" />
+          </TextLine>
+          <TextLine ID="line_0" TAGREFS="LT10" BASELINE="70 272 737 272" HPOS="69.0" VPOS="217.0" WIDTH="666.0" HEIGHT="73.0">
+            <Shape><Polygon POINTS="69 271 69 290 735 282 735 271 735 225 717 217 715 217 713 217 672 225 394 217 392 217 295 225 220 217 219 217 217 217 216 217 216 219 208 226 69 226 69 271" /></Shape>
+            <String CONTENT="FRANCOISE DE FRAN¬" HPOS="69.0" VPOS="217.0" WIDTH="666.0" HEIGHT="73.0" WC="0.9997967117362552" />
+          </TextLine>
+          <TextLine ID="line_1" TAGREFS="LT10" BASELINE="146 330 661 333" HPOS="145.0" VPOS="287.0" WIDTH="516.0" HEIGHT="64.0">
+            <Shape><Polygon POINTS="146 330 145 347 186 348 187 348 188 348 190 347 213 340 260 341 265 346 265 347 266 347 267 347 268 347 269 347 270 347 287 341 293 347 294 347 294 348 295 348 296 348 297 348 298 348 303 347 316 344 320 347 323 350 324 350 325 350 326 350 327 350 331 347 341 342 351 347 357 350 358 350 359 350 360 350 368 347 392 340 465 346 479 347 480 347 489 346 526 341 574 346 618 351 619 351 660 345 661 333 660 303 616 303 615 302 592 289 591 289 590 289 566 289 565 289 564 289 527 302 526 302 524 302 490 288 489 288 449 288 448 288 447 288 446 288 434 296 400 290 399 290 350 301 348 301 345 301 325 295 324 295 323 295 278 300 261 288 260 288 259 288 227 287 226 287 225 287 224 287 208 300 207 300 146 300 146 330" /></Shape>
+            <String CONTENT="çois Hotoman Iuriſconſulte." HPOS="145.0" VPOS="287.0" WIDTH="516.0" HEIGHT="64.0" WC="0.9919502032654626" />
+          </TextLine>
+          <TextLine ID="line_2" TAGREFS="LT10" BASELINE="127 477 683 479" HPOS="126.0" VPOS="430.0" WIDTH="557.0" HEIGHT="68.0">
+            <Shape><Polygon POINTS="127 477 126 495 397 490 406 493 413 496 414 496 415 496 416 496 428 493 438 491 452 493 485 498 486 498 512 492 515 492 526 492 646 498 648 498 682 490 683 479 683 443 663 433 662 433 661 433 660 433 646 438 639 432 639 431 638 431 637 431 636 431 595 437 508 431 507 431 506 431 505 431 494 439 440 432 439 432 438 432 437 432 437 433 428 441 425 443 312 443 308 440 293 430 292 430 291 430 290 430 233 438 215 430 214 430 213 430 178 438 160 442 127 438 127 477" /></Shape>
+            <String CONTENT="Nouuellement traduite de Latin" HPOS="126.0" VPOS="430.0" WIDTH="557.0" HEIGHT="68.0" />
+          </TextLine>
+          <TextLine ID="line_3" TAGREFS="LT10" BASELINE="287 529 509 528" HPOS="286.0" VPOS="493.0" WIDTH="223.0" HEIGHT="50.0">
+            <Shape><Polygon POINTS="287 529 287 543 508 537 509 528 508 503 471 493 470 493 469 493 468 493 431 502 403 497 402 497 401 497 400 497 392 502 370 493 369 493 342 493 341 493 339 493 338 493 331 499 311 496 310 496 309 496 286 503 287 529" /></Shape>
+            <String CONTENT="en Francois." HPOS="286.0" VPOS="493.0" WIDTH="223.0" HEIGHT="50.0" WC="0.9931735744078954" />
+          </TextLine>
+          <TextLine ID="line_4" TAGREFS="LT10" BASELINE="229 625 567 628" HPOS="228.0" VPOS="597.0" WIDTH="339.0" HEIGHT="54.0">
+            <Shape><Polygon POINTS="538 601 528 601 518 601 507 601 506 601 494 603 490 603 485 603 467 601 466 601 456 601 446 601 435 601 425 601 415 601 404 601 394 601 384 601 374 601 373 601 363 601 353 601 343 601 332 601 322 601 312 601 301 601 291 601 290 601 289 602 253 602 253 601 250 601 240 601 239 597 229 600 229 625 228 640 265 640 268 641 285 647 286 647 287 647 308 642 318 640 332 643 359 650 360 650 361 650 410 646 447 643 456 648 463 651 464 651 465 651 481 648 514 642 522 648 522 649 523 649 524 649 565 651 567 628 566 604 549 604 549 603 546 601 538 601" /></Shape>
+            <String CONTENT="Edition premiere." HPOS="228.0" VPOS="597.0" WIDTH="339.0" HEIGHT="54.0" WC="0.998553479419035" />
+          </TextLine>
+          <TextLine ID="line_5" TAGREFS="LT10" BASELINE="169 1267 618 1270" HPOS="166.0" VPOS="1210.0" WIDTH="450.0" HEIGHT="76.0">
+            <Shape><Polygon POINTS="168 1266 166 1277 171 1281 171 1283 173 1283 174 1283 176 1283 343 1278 390 1277 401 1280 418 1284 420 1284 421 1286 615 1286 616 1269 615 1212 168 1210 168 1266" /></Shape>
+            <String CONTENT="A COLOGNE." HPOS="166.0" VPOS="1210.0" WIDTH="450.0" HEIGHT="76.0" WC="0.9998962998390197" />
+          </TextLine>
+          <TextLine ID="line_6" TAGREFS="LT10" BASELINE="179 1342 626 1344" HPOS="178.0" VPOS="1286.0" WIDTH="448.0" HEIGHT="90.0">
+            <Shape><Polygon POINTS="179 1342 178 1367 224 1367 233 1368 269 1375 270 1375 350 1374 351 1374 361 1369 398 1375 399 1375 400 1375 401 1375 412 1368 445 1373 446 1373 447 1373 448 1373 455 1368 463 1368 525 1368 544 1376 546 1376 547 1376 548 1376 562 1370 608 1376 609 1376 610 1376 611 1376 625 1367 626 1344 625 1288 518 1297 517 1297 471 1308 433 1301 432 1301 431 1301 404 1308 311 1308 287 1288 286 1288 285 1288 284 1288 283 1288 229 1305 212 1288 212 1287 211 1287 210 1287 179 1286 179 1342" /></Shape>
+            <String CONTENT="Par Hierome Bertulphe." HPOS="178.0" VPOS="1286.0" WIDTH="448.0" HEIGHT="90.0" WC="0.9953522221608595" />
+          </TextLine>
+          <TextLine ID="eSc_line_2706c3d0" TAGREFS="LT10" BASELINE="300 1463 521 1468" HPOS="298.0" VPOS="1399.0" WIDTH="222.0" HEIGHT="80.0">
+            <Shape><Polygon POINTS="299 1462 298 1476 517 1479 520 1466 520 1399 480 1399 479 1399 477 1399 475 1399 469 1403 451 1417 437 1408 429 1402 428 1402 426 1402 424 1402 423 1402 394 1411 367 1403 366 1403 364 1403 363 1403 361 1403 343 1419 335 1425 299 1425 299 1462" /></Shape>
+            <String CONTENT="1574." HPOS="298.0" VPOS="1399.0" WIDTH="222.0" HEIGHT="80.0" WC="0.9994434118270874" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="340" VPOS="873" WIDTH="120" HEIGHT="71" ID="eSc_textblock_46515b9e" TAGREFS="BT11">
+          <Shape><Polygon POINTS="340 873 340 944 460 944 460 873" /></Shape>
+        </TextBlock>
+        <TextBlock HPOS="251" VPOS="931" WIDTH="300" HEIGHT="257" ID="eSc_textblock_83393059" TAGREFS="BT20">
+          <Shape><Polygon POINTS="257 931 251 1188 551 1188 551 937" /></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
