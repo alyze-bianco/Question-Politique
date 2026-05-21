@@ -43,6 +43,8 @@ This repository supports several research objectives:
 ## Repository Structure
 
 The final structure of the repository may follow this model:
+
+'''
 Question-Politique/
 ├── Data/
 │   ├── Alto/              # XML-ALTO files
@@ -72,6 +74,7 @@ Question-Politique/
 │
 ├── .gitattributes
 └── README.md
+'''
 
 ## License
 Unless otherwise indicated, all content in this repository is released under:
