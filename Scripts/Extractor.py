@@ -1,3 +1,7 @@
+# Ce script permet d'extraire le texte des balises <reg> normalisées dans les fichiers XML du corpus, 
+# en excluant celles qui sont dans des zones spécifiques (comme les titres, les marges, etc.). 
+# Il genère un fichier texte pour chaque fichier XML traité, contenant les extraits de texte extraits des balises <reg>.
+
 from pathlib import Path
 import xml.etree.ElementTree as ET
 import re

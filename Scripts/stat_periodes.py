@@ -1,3 +1,9 @@
+
+# Ce script permet de faire des statistiques sur les types d'événements par titre source, en se concentrant 
+# sur les 6 types cibles. Il lit le CSV, normalise les types, agrège les données, puis affiche un graphique 
+# à barres empilées avec un tableau de pourcentages en dessous. Les types non reconnus sont comptabilisés et 
+# affichés à la fin pour aider au debug.
+
 import csv
 import os
 import unicodedata
@@ -5,7 +11,7 @@ from collections import defaultdict, Counter
 import matplotlib.pyplot as plt
 import numpy as np
 
-csv_path = r"\\wsl.localhost\Ubuntu\home\aly\GithubLinux\test-\Enrichi\evenement_histo_csv\CSV\CSV_type.csv"
+csv_path = r"\\wsl.localhost\Ubuntu\home\aly\GithubLinux\test-\Enrichi\evenement_histo_csv\CSV\CSV_type2.csv"
 out_dir = os.path.dirname(csv_path)
 
 if not os.path.isfile(csv_path):

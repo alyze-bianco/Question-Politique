@@ -1,3 +1,8 @@
+# Ce script permet de normaliser les textes en appliquant des corrections basées sur un dictionnaire, 
+# tout en offrant une interface interactive pour ajouter de nouvelles corrections ou ignorer certains mots. 
+# Il gère également les cas d'agglutination potentielle et propose des suggestions basées sur les mots connus. 
+# Les modifications sont sauvegardées dans un fichier JSON pour une utilisation future.
+
 import os
 import re
 import json

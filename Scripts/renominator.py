@@ -1,3 +1,7 @@
+# Ce script permet de renommer les fichiers XML et leurs images correspondantes en fonction du numéro de page 
+# physique (PHYSICAL_IMG_NR) trouvé dans les fichiers XML. 
+# Il met également à jour le champ <fileName> dans les fichiers XML pour refléter le nouveau nom de l'image.
+
 import os
 
 import xml.etree.ElementTree as ET
